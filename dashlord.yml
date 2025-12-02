@@ -1,9 +1,9 @@
 title: DashLord
 base-path: /dashlord/
-description: Audit technique automatisé
+description: Audit complet
 entity: Mon organisation
 footer: Generated with DashLord
-marianne: false
+marianne: true
 seo: true
 
 tools:
@@ -13,6 +13,16 @@ tools:
   testssl: true
   screenshot: true
   ecoindex: true
+  thirdparties: true
+  a11y: true
+  dsfr: true
+  declaration-a11y: true
+  mentions: true
+  zap: true
+  nuclei: true
+  nmap: true
+  dependabot: true
+  codescan: true
 
 urls:
   - url: https://www.univ-evry.fr
