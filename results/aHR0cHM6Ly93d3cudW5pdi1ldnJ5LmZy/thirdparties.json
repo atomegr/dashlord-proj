@@ -114,7 +114,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/7gg7H51Q-naNfhmCP3_R47ho/recaptcha__en.js",
+      "url": "https://www.gstatic.com/recaptcha/releases/jdMmXeCQEkPbnFDy9T04NbgJ/recaptcha__en.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -199,10 +199,10 @@
     "connection": "Keep-Alive",
     "content-encoding": "gzip",
     "content-language": "fr-FR",
-    "content-length": "31013",
+    "content-length": "31012",
     "content-type": "text/html;charset=utf-8",
-    "date": "Fri, 12 Dec 2025 11:42:08 GMT",
-    "expires": "Fri, 12 Dec 2025 11:42:08 GMT",
+    "date": "Sun, 14 Dec 2025 01:16:58 GMT",
+    "expires": "Sun, 14 Dec 2025 01:16:58 GMT",
     "keep-alive": "timeout=5, max=99",
     "server": "Apache",
     "vary": "User-Agent,Accept-Encoding",
@@ -330,7 +330,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.121.95",
+      "ip": "172.253.62.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -384,7 +384,7 @@
     },
     {
       "hostname": "code.jquery.com",
-      "ip": "151.101.66.137",
+      "ip": "151.101.194.137",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -438,7 +438,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.251.108.106",
+      "ip": "142.251.16.103",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -492,7 +492,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "192.178.142.94",
+      "ip": "142.251.111.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -546,7 +546,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.251.108.94",
+      "ip": "142.251.163.94",
       "geoip": {
         "continent": {
           "code": "NA",
