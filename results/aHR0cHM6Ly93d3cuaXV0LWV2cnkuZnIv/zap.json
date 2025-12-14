@@ -1,8 +1,8 @@
 {
 	"@programName": "ZAP",
 	"@version": "2.16.1",
-	"@generated": "Fri, 12 Dec 2025 11:44:30",
-	"created": "2025-12-12T11:44:30.120862464Z",
+	"@generated": "Sun, 14 Dec 2025 01:19:27",
+	"created": "2025-12-14T01:19:27.325821289Z",
 	"site":[ 
 		{
 			"@name": "https://www.iut-evry.fr",
@@ -31,7 +31,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "20",
+							"id": "21",
 							"uri": "https://www.iut-evry.fr/robots.txt",
 							"nodeName": null,
 							"method": "GET",
@@ -41,7 +41,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "22",
+							"id": "20",
 							"uri": "https://www.iut-evry.fr/sitemap.xml",
 							"nodeName": null,
 							"method": "GET",
@@ -191,7 +191,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "40",
+							"id": "43",
 							"uri": "https://www.iut-evry.fr/robots.txt",
 							"nodeName": null,
 							"method": "GET",
@@ -201,7 +201,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "43",
+							"id": "40",
 							"uri": "https://www.iut-evry.fr/sitemap.xml",
 							"nodeName": null,
 							"method": "GET",
@@ -241,7 +241,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "23",
+							"id": "26",
 							"uri": "https://www.iut-evry.fr/robots.txt",
 							"nodeName": null,
 							"method": "GET",
@@ -251,7 +251,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "24",
+							"id": "23",
 							"uri": "https://www.iut-evry.fr/sitemap.xml",
 							"nodeName": null,
 							"method": "GET",
@@ -451,7 +451,7 @@
 					"desc": "<p>The response contents are not storable by caching components such as proxy servers. If the response does not contain sensitive, personal or user-specific information, it may benefit from being stored and cached, to improve performance.</p>",
 					"instances":[ 
 						{
-							"id": "37",
+							"id": "39",
 							"uri": "https://www.iut-evry.fr/",
 							"nodeName": null,
 							"method": "GET",
@@ -471,7 +471,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "38",
+							"id": "41",
 							"uri": "https://www.iut-evry.fr/robots.txt",
 							"nodeName": null,
 							"method": "GET",
@@ -481,7 +481,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "42",
+							"id": "38",
 							"uri": "https://www.iut-evry.fr/sitemap.xml",
 							"nodeName": null,
 							"method": "GET",
@@ -498,7 +498,7 @@
 					"reference": "<p>https://datatracker.ietf.org/doc/html/rfc7234</p><p>https://datatracker.ietf.org/doc/html/rfc7231</p><p>https://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html</p>",
 					"cweid": "524",
 					"wascid": "13",
-					"sourceid": "6"
+					"sourceid": "7"
 				},
 				{
 					"pluginid": "90005",
@@ -521,7 +521,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "30",
+							"id": "35",
 							"uri": "https://www.iut-evry.fr/robots.txt",
 							"nodeName": null,
 							"method": "GET",
@@ -531,7 +531,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "36",
+							"id": "32",
 							"uri": "https://www.iut-evry.fr/sitemap.xml",
 							"nodeName": null,
 							"method": "GET",
@@ -571,7 +571,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "28",
+							"id": "31",
 							"uri": "https://www.iut-evry.fr/robots.txt",
 							"nodeName": null,
 							"method": "GET",
@@ -581,7 +581,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "35",
+							"id": "27",
 							"uri": "https://www.iut-evry.fr/sitemap.xml",
 							"nodeName": null,
 							"method": "GET",
@@ -621,7 +621,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "26",
+							"id": "29",
 							"uri": "https://www.iut-evry.fr/robots.txt",
 							"nodeName": null,
 							"method": "GET",
@@ -631,7 +631,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "31",
+							"id": "25",
 							"uri": "https://www.iut-evry.fr/sitemap.xml",
 							"nodeName": null,
 							"method": "GET",
@@ -671,7 +671,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "32",
+							"id": "37",
 							"uri": "https://www.iut-evry.fr/robots.txt",
 							"nodeName": null,
 							"method": "GET",
@@ -681,7 +681,7 @@
 							"otherinfo": ""
 						},
 						{
-							"id": "39",
+							"id": "33",
 							"uri": "https://www.iut-evry.fr/sitemap.xml",
 							"nodeName": null,
 							"method": "GET",

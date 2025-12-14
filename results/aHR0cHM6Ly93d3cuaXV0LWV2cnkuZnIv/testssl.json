@@ -206,7 +206,7 @@
               "ip"           : "www.iut-evry.fr/213.186.33.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -269,7 +269,7 @@
               "ip"           : "www.iut-evry.fr/213.186.33.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "06B1958DB0CC599EBBDA5779910F2F73C237"
+              "finding"      : "064DD596C1C7007E3352FDC126730AB78672"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -283,21 +283,21 @@
               "ip"           : "www.iut-evry.fr/213.186.33.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "B115BC00D13E627C34DD55F71ABC0056535295F6"
+              "finding"      : "1E9CE3968BF512480C2668E1CD14A21883CE618D"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "www.iut-evry.fr/213.186.33.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "B83F7498EC7E4F785E6B123ADC77C6E2C0853759EDCF3EF4554A1C2600E5CD8E"
+              "finding"      : "4BF58818E3790D93205B1715D561B1B52EEC4A4B8A3D356478C14C0F6971D572"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "www.iut-evry.fr/213.186.33.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDizCCAxGgAwIBAgISBrGVjbDMWZ672ld5kQ8vc8I3MAoGCCqGSM49BAMDMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJFNzAeFw0yNTEwMDIwMTIzMTFaFw0yNTEyMzEwMTIzMTBaMBoxGDAWBgNVBAMTD3d3dy5pdXQtZXZyeS5mcjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABOh9E2sn190LjQPZYjvG9cMlSlhvgAk9Q7h4bwMQ5dkODEYFdK7lbeWldYk/T+nvaN16p8IJ5MDFl63tmUZJjxqjggIdMIICGTAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFMw/T3S82TtkJ+paTXZl8uTdf5SfMB8GA1UdIwQYMBaAFK5IntyHHUSgb9qi5WB0BHjCnACAMDIGCCsGAQUFBwEBBCYwJDAiBggrBgEFBQcwAoYWaHR0cDovL2U3LmkubGVuY3Iub3JnLzAaBgNVHREEEzARgg93d3cuaXV0LWV2cnkuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwLQYDVR0fBCYwJDAioCCgHoYcaHR0cDovL2U3LmMubGVuY3Iub3JnLzU2LmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AO08S9boBsKkogBX28sk4jgB31Ev7cSGxXAPIN23Pj/gAAABmaK5rW4AAAQDAEcwRQIhAJIHY3fS5+67SEv37KnmeGKtwCceYx3bcjyL3sV6DpNRAiBDLl5ilCvzV2Hw6J41N9kXxhdVFRh9/2Z87MiAaENXwwB2AN3cyjSV1+EWBeeVMvrHn/g9HFDf2wA6FBJ2Ciysu8gqAAABmaK5rZsAAAQDAEcwRQIgH7e5LB2UJ7KAQoe4WLgEJJRaLpsecz84MOlYVyfUMV8CIQCnBVri0FfU47LJYBjLDYw+KLUsTIg4JK9FI2R931h5EDAKBggqhkjOPQQDAwNoADBlAjEAvy8a9Y+wov/RlaJRbtsqHeHDxDIS4QKK90LpbcR/6IhzoL4894Oc7FoACV1I2Iw3AjABKO7UGBqS6/Ca6sKloMVq/hTwly3v/ZaELF/Y50g4e8XNuxYooe8o7TUOO0PCJcQ=\n-----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE-----\nMIIDizCCAxGgAwIBAgISBk3VlsHHAH4zUv3BJnMKt4ZyMAoGCCqGSM49BAMDMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJFNzAeFw0yNTEyMTMyMTI1MDVaFw0yNjAzMTMyMTI1MDRaMBoxGDAWBgNVBAMTD3d3dy5pdXQtZXZyeS5mcjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBYVpZ30x6IHwoboo+j+om83TyE9X69szMZu7/HYqiAgqFrJRtPmn0NBNXV78sRhYmtvzMGxt0Z+DnjCEdvCT6mjggIdMIICGTAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFMiYEwDZ2nu4jM6uWIc8uOtAoUeSMB8GA1UdIwQYMBaAFK5IntyHHUSgb9qi5WB0BHjCnACAMDIGCCsGAQUFBwEBBCYwJDAiBggrBgEFBQcwAoYWaHR0cDovL2U3LmkubGVuY3Iub3JnLzAaBgNVHREEEzARgg93d3cuaXV0LWV2cnkuZnIwEwYDVR0gBAwwCjAIBgZngQwBAgEwLgYDVR0fBCcwJTAjoCGgH4YdaHR0cDovL2U3LmMubGVuY3Iub3JnLzExNS5jcmwwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDLOPcViXyEoURfW8Hd+8lu8ppZzUcKaQWFsMsUwxRY5wAAAZsZz+uOAAAEAwBGMEQCIBL/xCU/5R8zkuE6hELhcFWUgyMUZGZ0FJG1EUR8ue9lAiARXXbW9EanEVy9dOqnGzOXk9/ft2eUh4YIGPOO+24tPAB2AA5XlLzzrqk+MxssmQez95Dfm8I9cTIl3SGpJaxhxU4hAAABmxnP64IAAAQDAEcwRQIhAMs/3B7SohXAB5yCOlUBWTzYVTMA4F2Re2F95+dPGBefAiBhmEP1Pfqiv+j/PMkYC2uWr/oEDJ9nr4gpmlUV4hgjnTAKBggqhkjOPQQDAwNoADBlAjEA55boV3mvWFeSX018yjqBVqWTGxmTQUHc5D7PU5thKwNdZu65DKxxhju9+qxXztKdAjBMbx45dQeRUt0TO760VlXHfHRUBP6Y8tZ/UfDHmsIsAM58pVQ5JN4tMsSBvQxAU3M=\n-----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -345,22 +345,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "www.iut-evry.fr/213.186.33.24",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 30 days (18)"
+              "severity"     : "OK",
+              "finding"      : "89 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "www.iut-evry.fr/213.186.33.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2025-10-02 01:23"
+              "finding"      : "2025-12-13 21:25"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "www.iut-evry.fr/213.186.33.24",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "2025-12-31 01:23"
+              "severity"     : "OK",
+              "finding"      : "2026-03-13 21:25"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -381,7 +381,7 @@
               "ip"           : "www.iut-evry.fr/213.186.33.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "http://e7.c.lencr.org/56.crl"
+              "finding"      : "http://e7.c.lencr.org/115.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
@@ -507,7 +507,7 @@
               "ip"           : "www.iut-evry.fr/213.186.33.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1765540067"
+              "finding"      : "1765675365"
           }
 ,         {
               "id"           : "HSTS",
@@ -1063,6 +1063,6 @@
               "ip"           : "www.iut-evry.fr/213.186.33.24",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "102"
+              "finding"      : "94"
           }
 ]

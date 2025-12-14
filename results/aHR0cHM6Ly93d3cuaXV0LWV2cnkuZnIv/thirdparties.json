@@ -17,27 +17,27 @@
       }
     },
     {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnSKzeRhf6.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnSKzeRhf6.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
       "type": "google",
       "url": "https://www.google.com/maps/embed?origin=mfe&pb=!1m3!2m1!1sIUT+d%27Evry+Val+d%27Essonne!6i12!3m1!1sfr-FR!5m1!1sfr-FR",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnSKzeRhf6.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnSKzeRhf6.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i531093&2i361474&2e1&3u12&4m2&1u528&2u600&5m6&1e0&5sfr-FR&6sus&10b1&12b1&14i47083502&8e1&client=google-maps-embed&token=104692",
+      "url": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i531093&2i361474&2e1&3u12&4m2&1u528&2u600&5m6&1e0&5sfr-FR&6sus&10b1&12b1&14i47083502&8e1&client=google-maps-embed&token=47756",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -150,9 +150,9 @@
     "accept-ranges": "bytes",
     "cache-control": "max-age=0, no-cache, no-store, must-revalidate",
     "content-encoding": "gzip",
-    "content-length": "36335",
+    "content-length": "36331",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Fri, 12 Dec 2025 11:42:09 GMT",
+    "date": "Sun, 14 Dec 2025 01:17:07 GMT",
     "expires": "Mon, 29 Oct 1923 20:30:00 GMT",
     "pragma": "no-cache",
     "server": "OVHcloud",
@@ -217,7 +217,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.214.138",
+      "ip": "192.178.142.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -271,7 +271,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "172.217.12.100",
+      "ip": "192.178.142.105",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -325,7 +325,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.191.67",
+      "ip": "142.251.121.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -379,7 +379,7 @@
     },
     {
       "hostname": "maps.gstatic.com",
-      "ip": "142.250.191.67",
+      "ip": "142.251.108.120",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -433,7 +433,7 @@
     },
     {
       "hostname": "maps.googleapis.com",
-      "ip": "142.251.32.42",
+      "ip": "142.251.108.95",
       "geoip": {
         "continent": {
           "code": "NA",
