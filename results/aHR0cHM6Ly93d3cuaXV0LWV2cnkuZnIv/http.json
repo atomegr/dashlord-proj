@@ -1,24 +1,22 @@
 {
   "scan": {
     "algorithmVersion": 4,
-    "grade": "F",
+    "grade": "D",
     "error": null,
-    "score": 0,
+    "score": 30,
     "statusCode": 200,
-    "testsFailed": 5,
-    "testsPassed": 5,
+    "testsFailed": 4,
+    "testsPassed": 6,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 14 Dec 2025 01:21:45 GMT",
+      "date": "Sun, 21 Dec 2025 01:21:20 GMT",
       "content-type": "text/html; charset=UTF-8",
-      "content-length": "36331",
+      "transfer-encoding": "chunked",
       "connection": "close",
       "server": "OVHcloud",
-      "vary": "User-Agent,Accept-Encoding",
-      "accept-ranges": "bytes",
-      "cache-control": "max-age=0, no-cache, no-store, must-revalidate",
-      "pragma": "no-cache",
-      "expires": "Mon, 29 Oct 1923 20:30:00 GMT"
+      "x-powered-by": "PHP/8.2",
+      "link": "<https://www.iut-evry.fr/wp-json/>; rel=\"https://api.w.org/\", <https://www.iut-evry.fr/wp-json/wp/v2/pages/2775>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.iut-evry.fr/>; rel=shortlink",
+      "vary": "Accept-Encoding"
     }
   },
   "tests": {
@@ -83,19 +81,10 @@
     },
     "subresource-integrity": {
       "expectation": "sri-implemented-and-external-scripts-loaded-securely",
-      "pass": false,
-      "result": "sri-not-implemented-and-external-scripts-not-loaded-securely",
-      "scoreModifier": -50,
-      "data": {
-        "//www.iut-evry.fr/wp-content/cache/wpfc-minified/1o744gfu/b7tt.js": {
-          "crossorigin": null,
-          "integrity": null
-        },
-        "//www.iut-evry.fr/wp-content/cache/wpfc-minified/1dhfcfje/hmyql.js": {
-          "crossorigin": null,
-          "integrity": null
-        }
-      }
+      "pass": true,
+      "result": "sri-not-implemented-but-all-scripts-loaded-from-secure-origin",
+      "scoreModifier": 0,
+      "data": {}
     },
     "x-content-type-options": {
       "expectation": "x-content-type-options-nosniff",
