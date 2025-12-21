@@ -65,14 +65,6 @@
       }
     },
     {
-      "type": "google",
-      "url": "https://www.google.com/recaptcha/api.js?hl=",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
       "type": "jQuery",
       "url": "https://code.jquery.com/ui/1.12.0/jquery-ui.js",
       "details": {
@@ -110,14 +102,6 @@
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://www.gstatic.com/recaptcha/releases/jdMmXeCQEkPbnFDy9T04NbgJ/recaptcha__en.js",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
       }
     },
     {
@@ -191,6 +175,14 @@
         "id": "cloudflare",
         "message": "Host files locally"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://web-analytics.univ-evry.fr/matomo.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://web-analytics.univ-evry.fr/matomo.php?action_name=Universit%C3%A9%20%C3%89vry%20Paris-Saclay&idsite=1&rec=1&r=879579&h=1&m=16&s=53&url=https%3A%2F%2Fwww.univ-evry.fr%2Faccueil.html&_id=&_idn=1&send_image=0&_refts=0&pv_id=GaRulC&pf_net=0&pf_srv=265&pf_tfr=80&pf_dm1=1206&pf_dm2=619&pf_onl=17&uadata=%7B%22formFactors%22%3A%5B%22Desktop%22%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22143.0.7499.169%22%7D%2C%7B%22brand%22%3A%22Not%20A(Brand%22%2C%22version%22%3A%2224.0.0.0%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Linux%22%2C%22platformVersion%22%3A%22%22%7D&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=800x600"
     }
   ],
   "cookies": [],
@@ -199,10 +191,10 @@
     "connection": "Keep-Alive",
     "content-encoding": "gzip",
     "content-language": "fr-FR",
-    "content-length": "31012",
+    "content-length": "30646",
     "content-type": "text/html;charset=utf-8",
-    "date": "Sun, 14 Dec 2025 01:16:58 GMT",
-    "expires": "Sun, 14 Dec 2025 01:16:58 GMT",
+    "date": "Sun, 21 Dec 2025 01:16:50 GMT",
+    "expires": "Sun, 21 Dec 2025 01:16:50 GMT",
     "keep-alive": "timeout=5, max=99",
     "server": "Apache",
     "vary": "User-Agent,Accept-Encoding",
@@ -330,7 +322,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.253.62.95",
+      "ip": "172.253.122.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -437,115 +429,7 @@
       }
     },
     {
-      "hostname": "www.google.com",
-      "ip": "142.251.16.103",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.111.94",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "www.gstatic.com",
       "ip": "142.251.163.94",
       "geoip": {
         "continent": {
@@ -764,6 +648,104 @@
             "zh-CN": "法国"
           }
         }
+      }
+    },
+    {
+      "hostname": "web-analytics.univ-evry.fr",
+      "ip": "194.199.84.119",
+      "geoip": {
+        "city": {
+          "geoname_id": 2992536,
+          "names": {
+            "en": "Montgeron",
+            "ja": "モンジュロン",
+            "ru": "Монжероне",
+            "zh-CN": "蒙特热龙"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 48.7078,
+          "longitude": 2.4496,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "91230"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "ja": "イル・ド・フランス",
+              "pt-BR": "Ilha de França",
+              "ru": "Иль-де-Франс",
+              "zh-CN": "法兰西岛"
+            }
+          },
+          {
+            "geoname_id": 3019599,
+            "iso_code": "91",
+            "names": {
+              "de": "Essonne",
+              "en": "Essonne",
+              "es": "Essonne",
+              "fr": "Essonne",
+              "ja": "エソンヌ県",
+              "pt-BR": "Essonne",
+              "ru": "Эсон",
+              "zh-CN": "埃松省"
+            }
+          }
+        ]
       }
     }
   ]

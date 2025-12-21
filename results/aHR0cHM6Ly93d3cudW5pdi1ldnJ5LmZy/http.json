@@ -9,15 +9,15 @@
     "testsPassed": 6,
     "testsQuantity": 10,
     "responseHeaders": {
-      "date": "Sun, 14 Dec 2025 01:21:14 GMT",
+      "date": "Sun, 21 Dec 2025 01:21:08 GMT",
       "server": "Apache",
       "content-language": "fr-FR",
       "cache-control": "private, no-store, max-age=0",
       "vary": "User-Agent,Accept-Encoding",
-      "expires": "Sun, 14 Dec 2025 01:21:14 GMT",
+      "expires": "Sun, 21 Dec 2025 01:21:08 GMT",
       "x-ua-compatible": "IE=edge",
       "x-content-type-options": "nosniff",
-      "content-length": "31012",
+      "content-length": "30646",
       "connection": "close",
       "content-type": "text/html;charset=utf-8"
     }
@@ -98,10 +98,6 @@
           "integrity": null
         },
         "https://code.jquery.com/jquery-migrate-1.4.1.min.js": {
-          "crossorigin": null,
-          "integrity": null
-        },
-        "https://www.google.com/recaptcha/api.js?hl=": {
           "crossorigin": null,
           "integrity": null
         },

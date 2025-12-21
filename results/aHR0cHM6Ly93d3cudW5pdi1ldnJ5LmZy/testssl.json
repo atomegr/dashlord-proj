@@ -346,7 +346,7 @@
               "ip"           : "www.univ-evry.fr/194.199.84.39",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "362 >= 60 days"
+              "finding"      : "355 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -549,7 +549,7 @@
               "ip"           : "www.univ-evry.fr/194.199.84.39",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1765675305"
+              "finding"      : "1766280098"
           }
 ,         {
               "id"           : "HSTS",
