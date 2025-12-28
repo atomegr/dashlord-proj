@@ -122,7 +122,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i531093&2i361474&2e1&3u12&4m2&1u528&2u600&5m6&1e0&5sfr-FR&6sus&10b1&12b1&14i47083502&8e1&client=google-maps-embed&token=24565",
+      "url": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i531093&2i361474&2e1&3u12&4m2&1u528&2u600&5m6&1e0&5sfr-FR&6sus&10b1&12b1&14i47083502&8e1&client=google-maps-embed&token=96040",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -149,7 +149,7 @@
   "headers": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 21 Dec 2025 01:16:51 GMT",
+    "date": "Sun, 28 Dec 2025 01:20:18 GMT",
     "link": "<https://www.iut-evry.fr/wp-json/>; rel=\"https://api.w.org/\"\n<https://www.iut-evry.fr/wp-json/wp/v2/pages/2775>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://www.iut-evry.fr/>; rel=shortlink",
     "server": "OVHcloud",
     "vary": "Accept-Encoding",
@@ -214,7 +214,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.163.95",
+      "ip": "142.250.31.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -268,7 +268,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "192.178.218.106",
+      "ip": "172.253.122.106",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -322,7 +322,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.253.62.94",
+      "ip": "172.253.63.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -376,7 +376,7 @@
     },
     {
       "hostname": "maps.gstatic.com",
-      "ip": "142.250.31.120",
+      "ip": "142.251.163.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -430,7 +430,7 @@
     },
     {
       "hostname": "maps.googleapis.com",
-      "ip": "172.253.122.95",
+      "ip": "142.251.16.95",
       "geoip": {
         "continent": {
           "code": "NA",
